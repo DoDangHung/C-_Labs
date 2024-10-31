@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="webFormPJ.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="StyleSheet1.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="page">
+            <div class="header">Header</div>
+            
+                <div class="leftColumn">Menu </div>
+                <div class="mainColumn">Main </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+            <div class="footer"></div>
+        </div>
+    </form>
+</body>
+</html>

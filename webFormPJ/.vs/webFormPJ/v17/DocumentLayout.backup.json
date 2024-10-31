@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|c:\\users\\hungm\\source\\repos\\webformpj\\webformpj\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|solutionrelative:webformpj\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|c:\\users\\hungm\\source\\repos\\webformpj\\webformpj\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|solutionrelative:webformpj\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|c:\\users\\hungm\\source\\repos\\webformpj\\webformpj\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|solutionrelative:webformpj\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|C:\\Users\\hungm\\source\\repos\\webFormPJ\\webformpj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|solutionrelative:webformpj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|c:\\users\\hungm\\source\\repos\\webformpj\\webformpj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C7995C-D7B8-44F2-9892-A0CD5360E246}|webFormPJ\\webFormPJ.csproj|solutionrelative:webformpj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm4.aspx",
+              "DocumentMoniker": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\WebForm4.aspx",
+              "RelativeDocumentMoniker": "webFormPJ\\WebForm4.aspx",
+              "ToolTip": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\WebForm4.aspx",
+              "RelativeToolTip": "webFormPJ\\WebForm4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T18:50:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "webFormPJ\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\WebForm1.aspx.cs",
+              "RelativeToolTip": "webFormPJ\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:51:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\Site1.Master",
+              "RelativeDocumentMoniker": "webFormPJ\\Site1.Master",
+              "ToolTip": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\Site1.Master",
+              "RelativeToolTip": "webFormPJ\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T18:37:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "webFormPJ\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\StyleSheet1.css",
+              "RelativeToolTip": "webFormPJ\\StyleSheet1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T18:01:24.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "webFormPJ\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\hungm\\source\\repos\\webFormPJ\\webFormPJ\\WebForm1.aspx",
+              "RelativeToolTip": "webFormPJ\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-23T12:53:05.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
